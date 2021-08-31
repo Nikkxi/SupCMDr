@@ -1,15 +1,17 @@
 - 👋 Hi, I’m @SupCMDr
 
-- 👀 I’m interested in ...    
-Game Dev    
-Software Test Automation (SDET Professionally)    
-Code Architecture & Design    
+- 👀 I’m interested in ...
+Software Test Automation (I am an SDET Professionally)     
+Game Dev       
+Software Architecture & Design    
 Server Administration    
 Kubernetes/Docker    
 Cloud Infrastructure    
     
     
-- 🌱 I’m currently learning ...    
+- 🌱 I’m currently learning ...
+API Automation
+Software Architecture
 Game Dev (Java, C#)    
 Procedural Generation    
 
