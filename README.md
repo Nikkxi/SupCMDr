@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SupCMDr
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...    
 Software Test Automation (I am an SDET Professionally)     
 Game Dev       
 Software Architecture & Design    
@@ -9,7 +9,7 @@ Kubernetes/Docker
 Cloud Infrastructure    
     
     
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...    
 API Automation
 Software Architecture
 Game Dev (Java, C#)    
@@ -17,7 +17,7 @@ Procedural Generation
 
 
 
-- ⭐Portfolio Projects ...
+- ⭐Portfolio Projects ...    
 SupCMDr/scryfall-api-test  - API test automation portfolio project
 
 
@@ -28,7 +28,7 @@ Not really looking unless the right person reaches out to me for an interesting 
 
 
 - 📫 How to reach me ...    
-email: supcmdr@gmail.com    
+Email: supcmdr@gmail.com    
 Discord: Nikkxi 🍀#3268
 
 
