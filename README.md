@@ -17,6 +17,11 @@ Procedural Generation
 
 
 
+- ⭐Portfolio Projects ...
+SupCMDr/scryfall-api-test  - API test automation portfolio project
+
+
+
 - 💞️ I’m looking to collaborate on ...    
 Not really looking unless the right person reaches out to me for an interesting project/idea    
 
