@@ -10,8 +10,8 @@ Cloud Infrastructure
     
     
 - 🌱 I’m currently learning ...    
-API Automation
-Software Architecture
+API Automation    
+Software Architecture    
 Game Dev (Java, C#)    
 Procedural Generation    
 
